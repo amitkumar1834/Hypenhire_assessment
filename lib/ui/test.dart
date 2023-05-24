@@ -292,7 +292,7 @@ int _currentIndex=0;
                     color: FlutterFlowTheme.of(context).secondaryBackground,
                   ),
                   child: Padding(
-                    padding: EdgeInsetsDirectional.fromSTEB(0, 6, 0, 0),
+                    padding: EdgeInsetsDirectional.fromSTEB(16, 6, 0, 0),
                     child: Column(
                       mainAxisSize: MainAxisSize.max,
                       mainAxisAlignment: MainAxisAlignment.start,
